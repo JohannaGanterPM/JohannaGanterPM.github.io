@@ -55,4 +55,17 @@ background-position:0px 145px
 background-color: coral;
 }
 	
-	
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+  width:400px;
+  position:50px;
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+  	
