@@ -59,13 +59,14 @@ div.transbox {
   margin: 30px;
   background-color: #ffffff;
   opacity: 0.6;
-  width:400px;
-  position:50px;
+  width:600px;
+  position:200px;
 }
 
 div.transbox p {
   margin: 5%;
   font-weight: bold;
   color: #000000;
+	position:center;
 }
   	
