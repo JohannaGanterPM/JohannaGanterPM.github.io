@@ -1,0 +1,59 @@
+html{
+font-size: 25px;
+font-family: sans-serif;
+/*web builtin standard fonts: sans-serif, serif, cursive,monospace, fantasy*/
+background: aliceblue;
+}
+	
+h1{
+color: white;
+text-align: center;
+background-color:black;
+}
+
+#p1 {
+text-align: center;
+color: grey;
+font-style: italic;
+}
+
+blockquote{
+font-size:10;
+}
+
+q{
+font-size: 10;
+}
+
+li{ 
+list-style-type: none; 
+display:inline;
+}
+
+   
+p{
+font-size:10;
+line-height:1;
+text-align: center;
+}
+
+blockquote{
+font-size:10;
+}
+
+q{
+font-size: 10;
+}
+
+.body,html {
+    background-image: url('images/webphoto.jpg');
+    background-repeat: no-repeat;
+    background-size: 40% 80%;
+	padding-top:40px;
+}
+
+.header,html{
+	background-color: black;
+}
+	
+	
