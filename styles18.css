@@ -29,7 +29,6 @@ li{
 list-style-type: none; 
 display:inline;
 }
-
    
 p{
 font-size:10;
@@ -46,14 +45,14 @@ font-size: 10;
 }
 
 .body,html {
-    background-image: url('webphoto.jpg');
-    background-repeat: no-repeat;
-    background-size: 40% 80%;
-	padding-top:40px;
+background-image: url('webphoto.jpg');
+background-repeat: no-repeat;
+background-size: 40% 80%;
+background-position:0px 145px
 }
 
 .header,html{
-	background-color: black;
+background-color: coral;
 }
 	
 	
