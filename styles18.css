@@ -52,12 +52,12 @@ background-position:0px 145px
 }
 
 div.transbox {
-  margin: 30px;
-  background-color: #ffffff;
+margin: 100px;
+background-color: #ffffff;
 border:1px solid black;
-  opacity: 0.6;
+opacity: 0.6;
 width:800px;
-left: 800px;
+
 }
 
 div.transbox p {
@@ -89,6 +89,6 @@ color:black;
 }
 
 .main {
-margin-top:30px;
+margin-top:300px;
 background-color:black;
 }
