@@ -51,12 +51,12 @@ background-size: 40% 80%;
 background-position:0px 145px
 }
 
-
 div.transbox {
   margin: 30px;
   background-color: #ffffff;
 border:1px solid black;
   opacity: 0.6;
+width:600px
 }
 
 div.transbox p {
