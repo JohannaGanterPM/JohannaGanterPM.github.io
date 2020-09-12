@@ -48,7 +48,7 @@ font-size: 10;
 background-image: url('webphoto.jpg');
 background-repeat: no-repeat;
 background-size: 40% 80%;
-background-position:0px 170px
+background-position:0px 145px
 }
 
 .header,html{
@@ -72,7 +72,7 @@ div.transbox p {
   	
 .navbar {
 overflow:hidden;
-background-color: blue;
+background-color: white;
 position: fixed;
 top:0;
 width:100%;
