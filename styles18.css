@@ -50,20 +50,22 @@ background-repeat: no-repeat;
 background-size: 40% 80%;
 background-position:0px 145px
 }
-	
+
+div.background {
+border:1px solid black;
+}
+
 div.transbox {
   margin: 30px;
   background-color: #ffffff;
+border:1px solid black;
   opacity: 0.6;
-  width:600px;
-  position:200px;
 }
 
 div.transbox p {
   margin: 5%;
   font-weight: bold;
   color: #000000;
-	position:center;
 }
   	
 .navbar {
