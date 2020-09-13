@@ -49,11 +49,11 @@ font-size: 10;
 background-image: url('webphoto.jpg');
 background-repeat: no-repeat;
 background-size: 40% 80%;
-background-position:50px 145px
+background-position:0px 145px
 }
 
 div.transbox {
-margin: 100px;
+margin: 200px;
 background-color: #ffffff;
 border:1px solid black;
 opacity: 0.6;
@@ -79,7 +79,7 @@ float:left;
 display:block;
 color:#f2f2f2;
 text-align:center;
-padding:14px 16px;
+padding:28px 16px;
 text-decoration:none;
 }
 
