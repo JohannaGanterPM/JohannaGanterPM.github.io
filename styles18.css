@@ -50,6 +50,7 @@ background-image: url('webphoto.jpg');
 background-repeat: no-repeat;
 background-size: 40% 80%;
 background-position:0px 145px
+background-color:coral;
 }
 
 div.transbox {
@@ -89,8 +90,8 @@ color:black;
 }
 
 .main {
-margin-top:59px;
+margin-top:57px;
 padding:30px 30px;
-border:1px
-width: 100%
+border:1px;
+width: 100%;
 }
